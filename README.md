@@ -1,4 +1,4 @@
 # Code-converter
-This projects aims to create a parser which converts code of one programming language to another
+This project aims to create a parser that converts code of one programming language to another
 
-Python will be preferred language!
+Python will be the preferred language!
